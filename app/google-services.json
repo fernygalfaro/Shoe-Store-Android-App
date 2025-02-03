@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "186198159927",
+    "firebase_url": "https://final-projec-311e6-default-rtdb.firebaseio.com",
+    "project_id": "final-projec-311e6",
+    "storage_bucket": "final-projec-311e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186198159927:android:e9791fb815f234495745b2",
+        "android_client_info": {
+          "package_name": "alfaro.finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUlnG27GwSaz1qEvyY58to8-tdiCTB8PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

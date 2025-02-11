@@ -2,6 +2,7 @@
 
 This is a **Kotlin + Java** project designed to create an Android application where users can order **free shoes**. The app is integrated with **Google Firebase**, where all user orders are stored.
 
+![Image](https://github.com/user-attachments/assets/b9cac20d-5ba8-45c5-a7f9-af865080751c)
 ## Tech Stack
 
 ### Frontend:
